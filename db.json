@@ -2,15 +2,15 @@
   "physicians": [
     {
       "id": "1",
-      "firstname": "Algernop",
-      "lastname": "Krieger",
-      "email": "krieger@notablehealth.com"
-    },
-    {
-      "id": "2",
       "firstname": "Julius",
       "lastname": "Hibbert",
       "email": "julius@notablehealth.com"
+    },
+    {
+      "id": "2",
+      "firstname": "Algernop",
+      "lastname": "Krieger",
+      "email": "krieger@notablehealth.com"
     },
     {
       "id": "3",
