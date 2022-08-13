@@ -23,51 +23,51 @@
   "appointments": [
     {
       "id": "1",
-      "name": "Sterling Archer",
+      "name": "Pam Archer",
       "time": "8:00AM",
       "kind": "New Patient",
       "physicianId": "1"
     },
     {
       "id": "2",
-      "name": "Cyril Figis",
+      "name": "Jack Figis",
       "time": "8:30AM",
       "kind": "Follow-up",
       "physicianId": "1"
     },
     {
       "id": "3",
-      "name": "Ray Gilette",
-      "time": "9:00AM",
-      "kind": "Follow-up",
-      "physicianId": "1"
-    },
-    {
-      "id": "4",
-      "name": "Lana Kane",
-      "time": "9:30AM",
-      "kind": "New Patient",
-      "physicianId": "1"
-    },
-    {
-      "id": "5",
-      "name": "Pam Poovey",
-      "time": "10:00AM",
-      "kind": "New Patient",
-      "physicianId": "1"
-    },
-    {
-      "id": "6",
-      "name": "Pam Archer",
+      "name": "Sterling Archer",
       "time": "8:00AM",
       "kind": "New Patient",
       "physicianId": "2"
     },
     {
-      "id": "7",
-      "name": "Jack Figis",
+      "id": "4",
+      "name": "Cyril Figis",
       "time": "8:30AM",
       "kind": "Follow-up",
+      "physicianId": "2"
+    },
+    {
+      "id": "5",
+      "name": "Ray Gilette",
+      "time": "9:00AM",
+      "kind": "Follow-up",
+      "physicianId": "2"
+    },
+    {
+      "id": "6",
+      "name": "Lana Kane",
+      "time": "9:30AM",
+      "kind": "New Patient",
+      "physicianId": "2"
+    },
+    {
+      "id": "7",
+      "name": "Pam Poovey",
+      "time": "10:00AM",
+      "kind": "New Patient",
       "physicianId": "2"
     },
     {
