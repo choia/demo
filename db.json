@@ -4,79 +4,73 @@
       "id": "1",
       "firstname": "Julius",
       "lastname": "Hibbert",
-      "email": "julius@notablehealth.com"
+      "email": "julius@notablehealth.com",
+      "appointments": [
+        {
+          "id": "1",
+          "name": "Pam Archer",
+          "time": "8:00AM",
+          "kind": "New Patient"
+        },
+        {
+          "id": "2",
+          "name": "Jack Figis",
+          "time": "8:30AM",
+          "kind": "Follow-up"
+        }
+      ]
     },
     {
       "id": "2",
       "firstname": "Algernop",
       "lastname": "Krieger",
-      "email": "krieger@notablehealth.com"
+      "email": "krieger@notablehealth.com",
+      "appointments": [
+        {
+          "id": "1",
+          "name": "Sterling Archer",
+          "time": "8:00AM",
+          "kind": "New Patient"
+        },
+        {
+          "id": "2",
+          "name": "Cyril Figis",
+          "time": "8:30AM",
+          "kind": "Follow-up"
+        },
+        {
+          "id": "3",
+          "name": "Ray Gilette",
+          "time": "9:00AM",
+          "kind": "Follow-up"
+        },
+        {
+          "id": "4",
+          "name": "Lana Kane",
+          "time": "9:30AM",
+          "kind": "New Patient"
+        },
+        {
+          "id": "5",
+          "name": "Pam Poovey",
+          "time": "10:00AM",
+          "kind": "New Patient"
+        }
+      ]
     },
     {
       "id": "3",
       "firstname": "Nick",
       "lastname": "Riviera",
-      "email": "riveiera@notablehealth.com"
-    }
-  ],
-
-  "appointments": [
-    {
-      "id": "1",
-      "name": "Pam Archer",
-      "time": "8:00AM",
-      "kind": "New Patient",
-      "physicianId": "1"
-    },
-    {
-      "id": "2",
-      "name": "Jack Figis",
-      "time": "8:30AM",
-      "kind": "Follow-up",
-      "physicianId": "1"
-    },
-    {
-      "id": "3",
-      "name": "Sterling Archer",
-      "time": "8:00AM",
-      "kind": "New Patient",
-      "physicianId": "2"
-    },
-    {
-      "id": "4",
-      "name": "Cyril Figis",
-      "time": "8:30AM",
-      "kind": "Follow-up",
-      "physicianId": "2"
-    },
-    {
-      "id": "5",
-      "name": "Ray Gilette",
-      "time": "9:00AM",
-      "kind": "Follow-up",
-      "physicianId": "2"
-    },
-    {
-      "id": "6",
-      "name": "Lana Kane",
-      "time": "9:30AM",
-      "kind": "New Patient",
-      "physicianId": "2"
-    },
-    {
-      "id": "7",
-      "name": "Pam Poovey",
-      "time": "10:00AM",
-      "kind": "New Patient",
-      "physicianId": "2"
-    },
-    {
-      "id": "8",
-      "name": "Cam Smith",
-      "time": "10:00AM",
-      "kind": "Follow-up",
-      "physicianId": "3"
+      "email": "riveiera@notablehealth.com",
+      "appointments": [
+        {
+          "id": "1",
+          "name": "Cam Smith",
+          "time": "10:00AM",
+          "kind": "Follow-up"
+        }
+      ]
     }
   ]
 }
-
